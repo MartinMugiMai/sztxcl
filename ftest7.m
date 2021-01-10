@@ -1,7 +1,7 @@
 clc;clear;close all;  
  
-im=imread('/Users/Martin/Downloads/20180530195734401.jpg'); 
 
+%ÔØÈëÍ¼Æ¬
 im=imread('/Users/Martin/Downloads/lsm111.jpeg'); 
 figure,
 subplot(2,2,1);imshow(im);title('Ô´Í¼Ïñ');
